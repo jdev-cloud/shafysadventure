@@ -1,0 +1,17 @@
+{
+  "release": {
+    "number": "1.0.0.0",
+    "name": "Main relese",
+    "url": "unity/r-1.0.0.0.zip"
+  },
+  "beta": {
+    "number": "1.0.0.0",
+    "name": "Main beta",
+    "url": "unity/b-1.0.0.0.zip"
+  },
+  "alpha": {
+    "number": "1.0.0.0",
+    "name": "Main alpha",
+    "url": "unity/a-1.0.0.0.zip"
+  }
+}
